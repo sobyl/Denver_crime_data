@@ -4,7 +4,7 @@
 
 # Project objective: analyze the crime data in Denver to find some information like which area in denver is safer or time range with higher crime risk.
 
-# timeline
+# Timeline:
 data collection        01/28-02/03
 
 data cleanup           02/04-02/10
