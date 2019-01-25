@@ -6,8 +6,13 @@
 
 # timeline
 data collection        01/28-02/03
+
 data cleanup           02/04-02/10
+
 transformation         02/11-02/17
+
 feature engineering    02/18-02/24
+
 statistical summary    02/24-03/03
+
 visualization          03-04-03/15
