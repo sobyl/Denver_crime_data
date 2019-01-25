@@ -4,8 +4,7 @@
 
 # Project objective: analyze the crime data in Denver to find some information like which area in denver is safer or time range with higher crime risk.
 
-# Dataset attributes:
-		      - INCIDENT_ID: 2016376978	      20186000994
+# Dataset attributes: - INCIDENT_ID: 2016376978	      20186000994
   	  	      - OFFENSE_ID: 2016376978521300  20186000994423990
 		      - OFFENSE_CODE: 5213	      2399
 		      - OFFENSE_TYPE_ID: weapon-unlawful-discharge-of	theft-other
