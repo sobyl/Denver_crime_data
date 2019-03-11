@@ -35,4 +35,4 @@ visualization          03-04-03/15
 
 
 # Final project:
-- [Final project](https://mybinder.org/v2/gh/sobyl/Denver_crime_data.git/master?filepath=web_api.ipynb)
+- [Final project](https://mybinder.org/v2/gh/sobyl/Denver_crime_data/master?filepath=final.ipynb)
